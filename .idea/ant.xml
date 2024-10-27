@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AntConfiguration">
+    <buildFile url="file://$USER_HOME$/apache-ant-1.10.13/contributors.xml" />
+    <buildFile url="file://$USER_HOME$/apache-ant-1.10.13/fetch.xml" />
+    <buildFile url="file://$USER_HOME$/apache-ant-1.10.13/get-m2.xml" />
+    <buildFile url="file://$USER_HOME$/apache-ant-1.10.13/patch.xml" />
+  </component>
+</project>
