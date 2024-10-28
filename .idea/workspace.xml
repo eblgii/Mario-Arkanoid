@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15a78b44-6901-48ae-9040-77eadfcb7050" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2gYXb9ooI7Vt1RepEadhhQBMGJT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbstractArtDrawing.executor": "Run",
+    "Application.Apple.executor": "Run",
+    "Application.ArkanoidGame.executor": "Run",
+    "Application.Ass3Game.executor": "Run",
+    "Application.Ass5Game.executor": "Run",
+    "Application.BackGrounddd.executor": "Run",
+    "Application.BallsTest1.executor": "Run",
+    "Application.BouncingBallAnimation.executor": "Run",
+    "Application.BouncingBallAnimation2.executor": "Run",
+    "Application.DrawMarioBlock.executor": "Run",
+    "Application.Game.executor": "Run",
+    "Application.GeometryTester.executor": "Run",
+    "Application.LinesTestClassy.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MarioLevel1.executor": "Run",
+    "Application.MarioLevel2Background.executor": "Run",
+    "Application.MarioLevel2DetailedBackground.executor": "Run",
+    "Application.MarioLevel3Background.executor": "Run",
+    "Application.MarioPixelArt.executor": "Run",
+    "Application.MultipleBouncingBallsAnimation.executor": "Run",
+    "Application.MultipleFramesBouncingBallsAnimation.executor": "Run",
+    "Application.PixelArtBlockWithCracks.executor": "Run",
+    "Application.Program.executor": "Run",
+    "Application.Programm.executor": "Run",
+    "Application.SimpleGuiExample.executor": "Run",
+    "Application.SquareQuestionMarkDrawer.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Unnamed.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/Mario Arkanoid",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\ass2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\ass2" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ant run" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ArkanoidGame">
+    <configuration name="ArkanoidGame" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArkanoidGame" />
+      <module name="Mario Arkanoid" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Mario Arkanoid" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ArkanoidGame" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15a78b44-6901-48ae-9040-77eadfcb7050" name="Changes" comment="" />
+      <created>1714853359088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714853359088</updated>
+      <workItem from="1714853363638" duration="59000" />
+      <workItem from="1715875558622" duration="81000" />
+      <workItem from="1715875662406" duration="11848000" />
+      <workItem from="1715928609364" duration="10675000" />
+      <workItem from="1715960506551" duration="109000" />
+      <workItem from="1716064409372" duration="4020000" />
+      <workItem from="1716068650086" duration="953000" />
+      <workItem from="1716117178306" duration="89000" />
+      <workItem from="1716120413031" duration="191000" />
+      <workItem from="1716120997102" duration="38000" />
+      <workItem from="1716145336981" duration="125000" />
+      <workItem from="1716195915193" duration="3255000" />
+      <workItem from="1716209753516" duration="7570000" />
+      <workItem from="1716229979458" duration="1267000" />
+      <workItem from="1716231756654" duration="544000" />
+      <workItem from="1716268759180" duration="2602000" />
+      <workItem from="1716288708870" duration="524000" />
+      <workItem from="1716303535491" duration="908000" />
+      <workItem from="1716306185143" duration="1294000" />
+      <workItem from="1716368555279" duration="20199000" />
+      <workItem from="1716398175096" duration="41000" />
+      <workItem from="1716400180501" duration="58000" />
+      <workItem from="1716400542320" duration="1540000" />
+      <workItem from="1716403883533" duration="256000" />
+      <workItem from="1716444648603" duration="1378000" />
+      <workItem from="1716448717496" duration="69000" />
+      <workItem from="1716449706141" duration="3292000" />
+      <workItem from="1716454386562" duration="1359000" />
+      <workItem from="1716462439894" duration="5891000" />
+      <workItem from="1716537575590" duration="14000" />
+      <workItem from="1716544603968" duration="716000" />
+      <workItem from="1716563435200" duration="674000" />
+      <workItem from="1716660259603" duration="1595000" />
+      <workItem from="1716664722543" duration="30000" />
+      <workItem from="1716667890914" duration="6180000" />
+      <workItem from="1716706918103" duration="600000" />
+      <workItem from="1716707690713" duration="634000" />
+      <workItem from="1716712411016" duration="27000" />
+      <workItem from="1716720430823" duration="5210000" />
+      <workItem from="1716731294343" duration="1732000" />
+      <workItem from="1716750879371" duration="6262000" />
+      <workItem from="1716757834716" duration="591000" />
+      <workItem from="1716758937794" duration="1026000" />
+      <workItem from="1716781825536" duration="493000" />
+      <workItem from="1716800196038" duration="3626000" />
+      <workItem from="1716810350577" duration="3189000" />
+      <workItem from="1716820918909" duration="8111000" />
+      <workItem from="1716834687681" duration="6727000" />
+      <workItem from="1716909274296" duration="199000" />
+      <workItem from="1716928997970" duration="1634000" />
+      <workItem from="1716979674363" duration="53000" />
+      <workItem from="1716997353819" duration="16000" />
+      <workItem from="1716998302153" duration="407000" />
+      <workItem from="1717002390913" duration="151000" />
+      <workItem from="1717002553030" duration="5724000" />
+      <workItem from="1717045749084" duration="4591000" />
+      <workItem from="1717053317944" duration="11475000" />
+      <workItem from="1717077304835" duration="1272000" />
+      <workItem from="1717082328887" duration="3524000" />
+      <workItem from="1717100236667" duration="7094000" />
+      <workItem from="1717137888806" duration="2166000" />
+      <workItem from="1717140086765" duration="3241000" />
+      <workItem from="1717146016669" duration="4975000" />
+      <workItem from="1717161106864" duration="5131000" />
+      <workItem from="1717264413713" duration="11696000" />
+      <workItem from="1717312068082" duration="1354000" />
+      <workItem from="1717321797104" duration="9355000" />
+      <workItem from="1717356479934" duration="752000" />
+      <workItem from="1717421429840" duration="7000" />
+      <workItem from="1717422482309" duration="236000" />
+      <workItem from="1717423206675" duration="3000" />
+      <workItem from="1717531097113" duration="7004000" />
+      <workItem from="1717570448293" duration="101000" />
+      <workItem from="1717596181443" duration="903000" />
+      <workItem from="1717756486585" duration="12300000" />
+      <workItem from="1717877798515" duration="6772000" />
+      <workItem from="1717932868646" duration="9788000" />
+      <workItem from="1717964108723" duration="636000" />
+      <workItem from="1717965700680" duration="2163000" />
+      <workItem from="1718009087634" duration="878000" />
+      <workItem from="1718027486900" duration="11828000" />
+      <workItem from="1718089448664" duration="10058000" />
+      <workItem from="1718100934681" duration="3000" />
+      <workItem from="1718101123668" duration="2894000" />
+      <workItem from="1718106542422" duration="1019000" />
+      <workItem from="1718108127114" duration="94000" />
+      <workItem from="1718108906046" duration="349000" />
+      <workItem from="1718257788367" duration="8561000" />
+      <workItem from="1718267189971" duration="12000" />
+      <workItem from="1718267238631" duration="403000" />
+      <workItem from="1718268642085" duration="30000" />
+      <workItem from="1718274791319" duration="6666000" />
+      <workItem from="1718373813025" duration="15000" />
+      <workItem from="1718374513342" duration="105000" />
+      <workItem from="1718376828250" duration="109000" />
+      <workItem from="1718377051184" duration="477000" />
+      <workItem from="1718377588161" duration="388000" />
+      <workItem from="1718378406451" duration="99000" />
+      <workItem from="1718476491459" duration="1698000" />
+      <workItem from="1718487640920" duration="7000" />
+      <workItem from="1718488212518" duration="1533000" />
+      <workItem from="1718536654973" duration="6656000" />
+      <workItem from="1718552038389" duration="150000" />
+      <workItem from="1718566278591" duration="2649000" />
+      <workItem from="1718569135341" duration="31000" />
+      <workItem from="1719928212848" duration="648000" />
+      <workItem from="1720010809675" duration="343000" />
+      <workItem from="1720013599610" duration="642000" />
+      <workItem from="1720078593315" duration="2312000" />
+      <workItem from="1720080951485" duration="2026000" />
+      <workItem from="1720097117649" duration="20000" />
+      <workItem from="1720339655913" duration="41000" />
+      <workItem from="1720339712396" duration="1796000" />
+      <workItem from="1720341695729" duration="6121000" />
+      <workItem from="1720445721437" duration="17000" />
+      <workItem from="1720553644455" duration="2140000" />
+      <workItem from="1720558651410" duration="2253000" />
+      <workItem from="1720602392181" duration="4449000" />
+      <workItem from="1720612467237" duration="5124000" />
+      <workItem from="1720623312094" duration="2033000" />
+      <workItem from="1720625549079" duration="4133000" />
+      <workItem from="1720633815562" duration="9356000" />
+      <workItem from="1720708196981" duration="135000" />
+      <workItem from="1720717650804" duration="818000" />
+      <workItem from="1720725088455" duration="4221000" />
+      <workItem from="1720945899830" duration="1255000" />
+      <workItem from="1720947994235" duration="1524000" />
+      <workItem from="1720951291777" duration="2897000" />
+      <workItem from="1721321726818" duration="282000" />
+      <workItem from="1721331532423" duration="118000" />
+      <workItem from="1721739353667" duration="6000" />
+      <workItem from="1722104215648" duration="350000" />
+      <workItem from="1722180097396" duration="13000" />
+      <workItem from="1722180410313" duration="68000" />
+      <workItem from="1722488654061" duration="1022000" />
+      <workItem from="1722512720402" duration="502000" />
+      <workItem from="1722525734347" duration="27000" />
+      <workItem from="1722717634545" duration="1098000" />
+      <workItem from="1722758838985" duration="4000" />
+      <workItem from="1724337153499" duration="1247000" />
+      <workItem from="1724920900090" duration="39000" />
+      <workItem from="1728394079096" duration="1564000" />
+      <workItem from="1728483925143" duration="5316000" />
+      <workItem from="1728501649517" duration="2451000" />
+      <workItem from="1728572818234" duration="17000" />
+      <workItem from="1728573157865" duration="115000" />
+      <workItem from="1728836047042" duration="2000" />
+      <workItem from="1728888321391" duration="973000" />
+      <workItem from="1728889317431" duration="1193000" />
+      <workItem from="1728890893976" duration="246000" />
+      <workItem from="1728891240974" duration="549000" />
+      <workItem from="1728899220798" duration="46000" />
+      <workItem from="1728902015290" duration="4238000" />
+      <workItem from="1728985805479" duration="14000" />
+      <workItem from="1728991038514" duration="2050000" />
+      <workItem from="1729439195578" duration="5762000" />
+      <workItem from="1729451426755" duration="282000" />
+      <workItem from="1729451779277" duration="7228000" />
+      <workItem from="1729503686114" duration="783000" />
+      <workItem from="1730046489842" duration="11061000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((Ball)this).v" custom="Ball" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
